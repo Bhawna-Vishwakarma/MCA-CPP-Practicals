@@ -17,16 +17,8 @@ like turbo C++, CodeBlocks, VScode, sublimeText etc.
 git clone https://github.com/Bhawna-Vishwakarma/MCA-CPP-Practicals.git
 ```
 
- 
-2. Navigate to the practical folder you are interested in.  
 
-
-```bash    
-cd MCA-CPP-Practicals/PracticalX  
-``` 
-
-
-3. Compile and run the C++ programs using your preferred compiler (e.g., g++).  
+2. Compile and run the C++ programs using your preferred compiler (e.g., g++).  
 
 
 ```bash    
@@ -44,14 +36,14 @@ g++ program.cpp -o program
 6. WAP for addition of two matrixes.  
 7. WAP for multiplication of two matrixes.  
 8. WAP to find transpose of a matrix.  
-9. WAP to print:  
-    *  
-    * *  
-    * * *  
+9. WAP to print:    
+   *   
+   * *   
+   * * *    
 11. WAP to print:  
-    * * *  
-    * *  
-    *   
+   * * *    
+   * *    
+   *     
 11. WAP to print:  
     1 2 2  
     3 3 3  
