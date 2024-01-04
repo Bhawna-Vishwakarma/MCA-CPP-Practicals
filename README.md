@@ -2,8 +2,10 @@
 
 Welcome to the repository containing 31 solutions for the C++ programming language practical exercises as part of the MY MCA (Master of Computer Applications) Learning.
 
-**Getting Started**  
-**#Prerequisites**  
+# Getting Started   
+
+
+# Prerequisites  
 Make sure you have a C++ compiler installed on your system. If not, first need to download.  
 like turbo C++, CodeBlocks, VScode, sublimeText etc.
 
@@ -27,6 +29,11 @@ cd MCA-CPP-Practicals/PracticalX
 
 3. Compile and run the C++ programs using your preferred compiler (e.g., g++).  
 
+
+```bash    
+g++ program.cpp -o program
+./programs
+``` 
 
 # List of 31 Practicals
 
