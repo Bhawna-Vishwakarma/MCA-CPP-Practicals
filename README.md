@@ -37,13 +37,13 @@ g++ program.cpp -o program
 7. WAP for multiplication of two matrixes.  
 8. WAP to find transpose of a matrix.  
 9. WAP to print:    
-   *   
-   * *   
-   * * *    
+   \*   
+   \* \*   
+   \* \* \*    
 11. WAP to print:  
-   * * *    
-   * *    
-   *     
+   \* \* \*    
+   \* \*    
+   \*     
 11. WAP to print:  
     1 2 2  
     3 3 3  
