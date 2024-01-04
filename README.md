@@ -84,4 +84,4 @@ If you have any questions or want to reach out regarding this project, you can c
 Feel free to explore the practicals, learn, and enjoy coding in C++!  
 
 
-Thank you for checking out the Printing Doraemon project!
+Thank you for checking out the Project!
