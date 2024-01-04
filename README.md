@@ -9,18 +9,23 @@ like turbo C++, CodeBlocks, VScode, sublimeText etc.
 
 
 # Installation
-Clone this repository to your local machine.
-
-bash  
-Copy code  
-git clone [https://github.com/Bhawna-Vishwakarma/MCA-CPP-Practicals.git]  
-Navigate to the practical folder you are interested in.  
+1. Clone this repository to your local machine.  
 
 
-bash  
-Copy code  
+```bash   
+git clone https://github.com/Bhawna-Vishwakarma/MCA-CPP-Practicals.git
+```
+
+ 
+2. Navigate to the practical folder you are interested in.  
+
+
+```bash    
 cd MCA-CPP-Practicals/PracticalX  
-Compile and run the C++ programs using your preferred compiler (e.g., g++).  
+``` 
+
+
+3. Compile and run the C++ programs using your preferred compiler (e.g., g++).  
 
 
 # List of 31 Practicals
