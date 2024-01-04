@@ -71,8 +71,10 @@ g++ program.cpp -o program
 31. WAP to demonstrate the use of inline member function.  
 
 
-# Author  
+# Author    
 Bhawna Vishwakarma  
 
-
+# Contact  
+If you have any questions or want to reach out regarding this project, you can contact me at bvishwakarma1008@gmail.com. You can also find more of my projects on GitHub.  
 Feel free to explore the practicals, learn, and enjoy coding in C++!  
+Thank you for checking out the Printing Doraemon project!
