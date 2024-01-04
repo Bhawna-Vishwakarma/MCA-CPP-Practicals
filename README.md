@@ -74,6 +74,11 @@ g++ program.cpp -o program
 # Author    
 Bhawna Vishwakarma  
 
+
+# Contributing
+Contributions are welcome! If you have any suggestions, improvements, or New Programs to add in this list, please feel free to open an issue or submit a pull request.
+
+
 # Contact  
 If you have any questions or want to reach out regarding this project, you can contact me at bvishwakarma1008@gmail.com. You can also find more of my projects on GitHub.  
 Feel free to explore the practicals, learn, and enjoy coding in C++!  
