@@ -9,3 +9,5 @@ int main(){
     cout <<"Average of three numbers is : " <<avg <<endl;
     return 0;
 }
+// Not required total variable for less numbers of average calculation.
+// But if you have more than 3 numbers to calculate average then use of total variable makes your code in readable formate.
