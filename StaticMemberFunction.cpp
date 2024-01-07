@@ -10,7 +10,7 @@ class Example {
         }
 
         static void showCount() {
-            std::cout << "Count of objects: " << count << std::endl;
+            cout << "Count of objects: " <<count <<endl;
         }
 };
 // Initialize static data member outside the class
