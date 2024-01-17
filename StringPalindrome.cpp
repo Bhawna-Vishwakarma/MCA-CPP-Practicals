@@ -2,21 +2,17 @@
 using namespace std;
 int main()
 {
-    string str;
+    string str, rev="";
     bool result;
     cout<<"Enter a string to check weather it's palindrome or not -"<<endl;
     cin>>str;
         
-    for (int i = 0, j = str.length()-1; i <= j; i++, j--)
+    for (int i = str.length()-1; i >= 0; i--)
     {
-        cout<<str[i]<<" "<<str[j]<<endl;
-        if(str[i] == str[j]){
-            result= true;
-        }else{
-            result = false;
-        }
+        rev += str[i];
     }
-    if(result){
+    
+    if(str == rev){
         cout<<"String is Palindrome."<<endl;
     }else{
         cout<<"String is't Palindrome."<<endl;
