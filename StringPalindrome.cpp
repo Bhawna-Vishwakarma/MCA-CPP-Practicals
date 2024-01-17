@@ -3,7 +3,6 @@ using namespace std;
 int main()
 {
     string str, rev="";
-    bool result;
     cout<<"Enter a string to check weather it's palindrome or not -"<<endl;
     cin>>str;
         
